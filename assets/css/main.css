@@ -2342,10 +2342,14 @@ input, textarea, select, button {
   /* 使用多層 text-shadow 疊加，做出由內而外擴散的黃色光暈 */
   text-shadow: 
       0 0 4px #ffea00   /* 第一層：較窄、較亮的黃光 */
-      ,0 0 12px #ffea00  /* 第二層：中等擴散的黃光 */
-      ,0 0 20px #ffcc00  /* 第三層：較寬、偏橘黃的過渡光 */
+      ,0 0 6px #ffea00  /* 第二層：中等擴散的黃光 */
+      ,0 0 30px #ffcc00  /* 第三層：較寬、偏橘黃的過渡光 */
       /*,0 0 32px #ffaa00 /* 第四層：最外圍、最大範圍的深黃光 */
   ;  
+}
+
+h1.yellow-glow {
+  margin-bottom: 35px;
 }
 
 .yellow-glow-small {
