@@ -2283,6 +2283,17 @@ img, video, iframe, .icon, svg {
     filter: invert(1) hue-rotate(180deg);
 }
 */
+
+.atmb5 {
+margin-bottom: 5px;
+}
+
+/*
+h2.atmb5 {
+  color: #706705 !important;
+}
+*/
+
 #menu ul a, #menu ul span {
   border-bottom: 0;
   color: #ffffff;
@@ -2338,6 +2349,14 @@ input, textarea, select, button {
   ;  
 }
 
+.yellow-glow-small {
+  color: #ffffff !important; 
+  
+  text-shadow: 
+   0 0 1px #ffff00
+  ,0 0 18px #ffdd00
+  ;  
+}
 /*#072048 暗色*/
 /*#8183BD 紫色*/
 /*#F3E75D 黃色*/
