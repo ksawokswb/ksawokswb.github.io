@@ -1940,9 +1940,8 @@ button,
     position: relative;
     width: 26em; }
     #sidebar > .inner > * {
-      border-bottom: solid 2px rgba(210, 215, 217, 0.75);
-      margin: 0 0 3.5em 0;
-      padding: 0 0 3.5em 0; }
+      margin: 0 0 1em 0;
+      padding: 0 0 1em 0; }
       #sidebar > .inner > * > :last-child {
         margin-bottom: 0; }
       #sidebar > .inner > *:last-child {
@@ -2354,7 +2353,7 @@ input, textarea, select, button {
   
   text-shadow: 
    0 0 1px #ffff00
-  ,0 0 18px #ffdd00
+  ,0 0 18px #ffdd00 
   ;  
 }
 /*#072048 暗色*/
