@@ -2420,6 +2420,6 @@ table.alt sup {
 }
 
 table.tablemember1 tr th:first-child, table.alt tr td:first-child {
-  max-width: 30%;
-  width: 30%;
+  max-width: 33%;
+  width: 33%;
 }
