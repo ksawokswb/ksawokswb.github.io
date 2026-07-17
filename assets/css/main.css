@@ -2420,8 +2420,8 @@ table.alt sup {
 }
 
 table.tablemember1 tr th:first-child, table.alt tr td:first-child {
-  max-width: 28%;
-  width: 28%;
+  max-width: 30%;
+  width: 30%;
 }
 
 @media screen and (max-width: 736px) {
