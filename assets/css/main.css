@@ -2425,8 +2425,11 @@ table.tablemember1 tr th:first-child, table.alt tr td:first-child {
 }
 
 @media screen and (max-width: 736px) {
+  #main > .inner.tablemember {
+    padding: 0px 1em 0.1em 1.5em;
+  }
   table.alt.tablemember1 td {
     padding-left: 0;
     padding-right: 0;
-}
+  }
 }
