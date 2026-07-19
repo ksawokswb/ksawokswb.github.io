@@ -675,8 +675,8 @@ hr {
         width: 91.66667%; }
       .row > .off-11-medium {
         margin-left: 91.66667%; }
-      .row > .col-12-medium {
-        width: 100%; }
+      /*.row > .col-12-medium {
+        width: 100%; }*/
       .row > .off-12-medium {
         margin-left: 100%; }
       .row.gtr-0 {
