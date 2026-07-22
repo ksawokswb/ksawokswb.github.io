@@ -561,7 +561,7 @@ table.alt sup {
             <span class="member2">李睿勳<sup>▲&emsp;</sup></span>
             <span class="member2">林敬宸<sup>▲&emsp;</sup></span>
             <span class="member1">徐梓翔<sup>⬤▲</sup></span>
-            <span class="member1">陳品睿<sup>▲</sup></span>
+            <span class="member2">陳品睿<sup>▲</sup></span>
             <span class="member2">張峰碩<sup>⬤▲</sup></span>
             <span class="member2">黃冠程<sup>⬤▲</sup></span>
             <span class="member2">黃宥穎<sup>⬤&emsp;</sup></span>
@@ -582,7 +582,7 @@ table.alt sup {
         <td>中音薩克管</td>
         <td>
             <span class="member2">林宇希<sup>▲&emsp;</sup></span>
-            <span class="member1">莊宇軒<sup>▲&emsp;</sup></span>
+            <span class="member2">莊宇軒<sup>▲&emsp;</sup></span>
             <span class="member1">楊&emsp;恂<sup>⬤&emsp;</sup></span>
             <span class="member2">陳忠義<sup>⬤▲</sup></span>
             <span class="member2">黃泓碩<sup>⬤▲</sup></span>
@@ -666,7 +666,7 @@ table.alt sup {
     <tr>
         <td>低音提琴</td>
         <td>
-            <span class="member1">孫敬棠<sup>⬤▲</sup></span>
+            <span class="member1">孫敬棠<sup>⬤&emsp;</sup></span>
             <span class="member3">吳佳穎<sup>⬤▲</sup></span>
         </td>
     </tr>
@@ -933,7 +933,7 @@ table.alt sup {
             <span class="member2">李睿勳</span>
             <span class="member2">林敬宸</span>
             <span class="member1">徐梓翔</span>
-            <span class="member1">陳品睿</span>
+            <span class="member2">陳品睿</span>
             <span class="member2">張峰碩</span>
             <span class="member2">黃冠程</span>
             <span class="member2">廖子頡</span>
@@ -950,7 +950,7 @@ table.alt sup {
         <td>中音薩克管</td>
         <td>
             <span class="member2">林宇希</span>
-            <span class="member1">莊宇軒</span>
+            <span class="member2">莊宇軒</span>
             <span class="member2">陳忠義</span>
             <span class="member2">黃泓碩</span>
             <span class="member1">蘇備得</span>
@@ -1024,7 +1024,6 @@ table.alt sup {
     <tr>
         <td>低音提琴</td>
         <td>
-            <span class="member1">孫敬棠</span>
             <span class="member3">吳佳穎</span>
         </td>
     </tr>
